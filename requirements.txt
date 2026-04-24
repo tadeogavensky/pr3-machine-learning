@@ -1,4 +1,6 @@
- scikit-learn
- pandas
- numpy
+numpy
 matplotlib
+scipy
+pandas
+scikit-learn
+plotly
